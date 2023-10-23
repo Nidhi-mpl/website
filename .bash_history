@@ -38,3 +38,39 @@ cd/
 clear
 ls
 exit
+git push origin master
+sudo git init
+git push origin master
+sudo git init
+sudo git add.
+sudo git add .
+ls
+sudo git branch checkout
+sudo git branch 
+sudo git pull https://github.com/Nidhi-mpl/website.git
+ls
+git remote add -m "new"
+git push origin master
+git remote add origin https://github.com/Nidhi-mpl/website.git
+ls4
+ls
+git remote add origin
+git remote add origin https://github.com/Nidhi-mpl/website.git~
+git remote add origin https://github.com/Nidhi-mpl/website.git
+git push origin master
+sudo git init
+ls
+nano sample
+ls
+git status
+git push origin master
+git remote add origin https://github.com/Nidhi-mpl/website.git
+git commit -m "" new
+git commit -m "new" 
+git push origin master
+git commit -m "new"
+git remote add origin
+git remote add origin https://github.com/Nidhi-mpl/website.git
+ls
+git push https://github.com/Nidhi-mpl/website.git
+git push origin master
